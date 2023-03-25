@@ -18,4 +18,10 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=harrrdie&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="header" align="center">
+  <h1>
+  About me
+</h1>
+  <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="250"/>
+</div>
 
