@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
   Look who’s here!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc1MDgzZThkYTBhYTNiNzk2ZDUwNTk3ZTcyYzI4YzQ3NDBiZDRjMyZjdD1z/Bl6VoPv34mX2E/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI3NDEyNDVhNjZlNDgxOGE0ZjhjYjA0NGNmOThmZGY2YWMwYjU1MiZjdD1z/BF3D7cOuAsqis/giphy.gif" width="50px"/>
 </h1>
   <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="250"/>
 </div>
