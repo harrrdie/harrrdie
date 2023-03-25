@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-  hey there
+  Look who’s here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="250"/>
