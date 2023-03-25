@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="200"/>
+  <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="300"/>
 </div>
 <div id="badges" align="center">
     <a href="https://t.me/harrrdie">
