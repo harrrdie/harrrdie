@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <h1>
-    <img src="https://cur.glitter-graphics.net/pub/3719/3719211j01pncxkem.gif" width="30px"/>
-  Look who’s here!
-  <img src="https://cur.glitter-graphics.net/pub/3719/3719211j01pncxkem.gif" width="30px"/>
+    <img src="https://cur.glitter-graphics.net/pub/3719/3719211j01pncxkem.gif" width="40px"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=36&pause=1000&color=9E00B8&background=FF000000&center=true&vCenter=true&width=200&height=35&lines=Look+who%E2%80%99s+here!" alt="Typing SVG" /></a>
+  <img src="https://cur.glitter-graphics.net/pub/3719/3719211j01pncxkem.gif" width="40px"/>
 </h1>
   <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="200"/>
 </div>
