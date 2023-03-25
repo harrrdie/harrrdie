@@ -3,7 +3,7 @@
   Look who’s here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="250"/>
+  <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="200"/>
 </div>
 <div id="badges" align="center">
     <a href="https://t.me/harrrdie">
@@ -20,8 +20,8 @@
 </div>
 <div id="header" align="center">
   <h1>
-  :man_technologist:About me
+  :clipboard:About me
 </h1>
-  <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="250"/>
+  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*5fIUIzQrNVPBzeQZiLM27w.gif" width="500"/>
 </div>
 
