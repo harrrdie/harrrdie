@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=harrrdie&style=flat-square&color=purple" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=harrrdie&style=flat-square&color=pink" alt=""/>
 </div>
 ### hey there 👋
 
