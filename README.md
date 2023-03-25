@@ -20,7 +20,7 @@
 </div>
 <div id="header" align="center">
   <h1>
-  About me
+  :man_technologist:About me
 </h1>
   <img src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif" width="250"/>
 </div>
