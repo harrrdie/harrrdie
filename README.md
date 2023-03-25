@@ -11,7 +11,8 @@
   <a href="https://www.instagram.com/harrrdie/">
   <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=your-github-harrrdie&style=flat-square&color=purple" alt=""/>
 </div>
 ### hey there 👋
 
