@@ -25,10 +25,6 @@
 
 ### :clipboard: About Me:
 
-I am a Junior Developer from Russia.
-  
-:man_student: I started my journey into the world of programming in 2023 after I entered college.
-  
 :hourglass: In my free time I study various programming languages.
   
 :mailbox_with_mail: To contact me, you can click one of the buttons on top (telegram, vk, instagram).
