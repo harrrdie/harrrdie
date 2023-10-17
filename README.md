@@ -12,9 +12,6 @@
   <a href="https://vk.com/harrrdie">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
       </a>
-  <a href="https://www.instagram.com/harrrdie/">
-  <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-    </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=harrrdie&style=flat-square&color=blue" alt=""/>
   <br>
@@ -27,13 +24,12 @@
 
 :hourglass: In my free time I study various programming languages.
   
-:mailbox_with_mail: To contact me, you can click one of the buttons on top (telegram, vk, instagram).
+:mailbox_with_mail: To contact me, you can click one of the buttons on top (telegram, vk).
   
 ---
   
 ### :hammer_and_wrench: Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 
 ---
